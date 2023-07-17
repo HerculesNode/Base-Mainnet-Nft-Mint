@@ -1,5 +1,7 @@
 # Base Mainnet NFT Mint
 
+Our cost will be around $4 Let's start now 
+
 
 ## 1
 Go to page [https://basescan.org/verifiedSignatures#](https://basescan.org/verifiedSignatures#)
